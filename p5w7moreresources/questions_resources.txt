@@ -1,0 +1,11 @@
+question_red_1 = 'Do you think the current mortality rate is acceptable if you consider how much more we know about viruses?'
+question_red_2 = 'Do you see people who have COVID as outlandish?';
+
+question_blue_1 = 'Do measures need to be easy to do for people or should they be hard, but more effective?';
+question_blue_2 = 'Was finding a cure effective in the current COVID pandemic?';
+
+question_green_1 = 'Do you believe that getting vaccinated will safe your life or does God have the upper hand?';
+question_green_2 = 'Because of which beliefs would you not get vaccinated?';
+
+question_orange_1 = 'Do you think that new unknown methods for creating vaccines are more unreliable?';
+question_orange_2 = 'Should vaccination be free for everyone?';
