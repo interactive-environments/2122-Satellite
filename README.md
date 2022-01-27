@@ -27,7 +27,7 @@ The current folder allows for three subjects to be shown: Transportation, Pandem
 - Setup:
 If using VSC, you can open the folder as a project. Make sure you have a server running.
 There exists a VSC extension for an easy set up. For more information:https://github.com/processing/p5.js/wiki/Local-server.
-It is possible to add resources about a new subject with writing minimal code.
+It is possible to add resources about a new subject with writing minimal code. (Code written in sketch.js)
 
 - Add subject resource:
 Make sure that the recourseImages, resourceQRCodes, resourceYears and resourceQuestions are formatted in one folder, similar to the other folder.
