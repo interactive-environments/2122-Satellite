@@ -1,0 +1,21 @@
+Pandemics subject
+
+Jaar1_1 = 1635 ;
+Jaar1_2 = 1698 ;
+Jaar1_3 = 1673 ;
+Jaar1_4 = 1667 ;
+
+Jaar2_1 = 1769 ;
+Jaar2_2 = 1769 ;
+Jaar2_3 = 1783 ;
+Jaar2_4 = 1769 ;
+
+Jaar3_1 = 1872 ;
+Jaar3_2 = 1899 ;
+Jaar3_3 = 1848 ; 
+Jaar3_4 = 1881 ;
+
+Jaar4_1 = 1995 ;
+Jaar4_2 = 1920 ; 
+Jaar4_3 = 1971 ; 
+Jaar4_4 = 1929 ;

@@ -1,0 +1,21 @@
+Pandemics/Epidemics
+
+question_red_1 = ‘Is the media we have now used effectively to spread news?’ ;
+question_red_2 = ‘Do you think the current mortality rate is acceptable, keeping in mind how much more we know about viruses?’ ;
+question_red_3 = ‘Were or are you afraid that many people would die from COVID?’ ;
+question_red_4 = ‘Do you see people with the virus as outsiders?’ ;
+
+question_blue_1 = ‘Do COVID restrictions need to be easy to do for people or should they be hard, but more effective?’ ;
+question_blue_2 = ‘Was finding a cure effective in the current COVID pandemic?’ ; 
+question_blue_3 = ‘Should research about viruses be done immediately on humans who died of COVID?’ ; 
+question_blue_4 = ‘Were we sure how COVID spreads?’ ; 
+
+question_green_1 = ‘Is ignorance of people one of the flaws in pandemics?’ ; 
+question_green_2 = ‘Should the government know when you are infected or not?’ ;
+question_green_3 = ‘Do you believe that getting vaccinated will save your life or does God have the upper hand?’ ;
+question_green_4 = ‘Because of which beliefs would you not get vaccinated?’ ;
+
+question_orange_1 = ‘Do you think that new unknown methods for creating vaccines are more unreliable?’ ;
+question_orange_2 = ‘Do you think getting vaccinated is dangerous for your health?’ ; 
+question_orange_3 = ‘What kind of restrictions work the best in pandemics/epidemics?’ ; 
+question_orange_4 = ‘Should vaccination be free for everyone?’ ;
