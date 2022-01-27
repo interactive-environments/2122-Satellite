@@ -1,4 +1,4 @@
-§import board
+import board
 import busio
 import time
 from analogio import AnalogIn
