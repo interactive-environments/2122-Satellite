@@ -1,0 +1,21 @@
+Transportation
+
+question_red_9= ‘Would you like to explore unknown places or would you leave that to others?’ ;
+question_red_10 = ‘What mode of transportation do you use the most?’ ;
+question_red_11 = ‘Would you have liked to join these voyages to East-India per ship that took at least 6 months?’ ;
+question_red_12 = ‘What do you know about the VOC? And what do you think of how they acted?’ ; 
+
+question_blue_9= ‘What do you find interesting about the eastern culture?’ ;
+question_blue_10 = ‘Would you take a hot air balloon ride just for fun?’ ; 
+question_blue_11 = ‘What do you think of travelling and the environment?’ ; 
+question_blue_12 = ‘Do you think more traffic rules would make roads safer?’ ; 
+
+question_green_9 = ‘Do you think the train should be less expensive, because it is a sustainable way of travelling?’ ;
+question_green_10 = ‘What do you think the next new mode of transport will be?’ ;
+question_green_11 = ‘Do you think biking is safe for children?’ ;
+question_green_12 = ‘Do you prefer an electric vehicle or a regular vehicle?’ ;
+
+question_orange_9 = ‘Would you rather go to the Dutch beach or a beach in another country?’ ;
+question_orange_10 = ‘Have you ever been on holiday in your own country?’ ; 
+question_orange_11 = ‘Do you think travelling was more expensive in these days?’ ; 
+question_orange_12 = ‘Would you be scared to sit in the first flight for passengers ever?’ ;
