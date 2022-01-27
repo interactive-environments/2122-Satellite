@@ -10,11 +10,12 @@ The code in the other folders are from previous iterations.
 
 Created by Airo
 
+
 Members of Airo: 
 
-Kenwyn Hoefnagel\n
-Dorrit Huijskes\n
-Eva Jonkers\n
-Gloria Orcan\n
-Loes de Vries\n
-Vivian Nguyen\n
+Kenwyn Hoefnagel,
+Dorrit Huijskes,
+Eva Jonkers,
+Gloria Orcan,
+Loes de Vries,
+Vivian Nguyen
