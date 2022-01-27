@@ -23,6 +23,7 @@ P5.js:
 We have used this page https://github.com/p5-serial/p5.serialport as a tutorial/template and expanded from there ourselves.
 We added a p5js folder that contains all the needed code, documents and images.
 The current folder allows for three subjects to be shown: Transportation, Pandemics, Cooking.
+Make sure the folders of the resources are in your workspace/project.
 
 - Setup:
 If using VSC, you can open the folder as a project. Make sure you have a server running.
