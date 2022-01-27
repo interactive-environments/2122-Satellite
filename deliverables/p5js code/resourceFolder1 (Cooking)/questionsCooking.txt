@@ -1,0 +1,21 @@
+Cooking
+
+question_red_5 = ‘Do you think food nowadays get less fresh?’ ;
+question_red_6 = ‘What are your thoughts about veganism?’ ;
+question_red_7 = ‘Do you prefer the food on the table or what you will eat this evening?’ ;
+question_red_8 = ‘Do you think that fishing has become worse over the years?’ ; 
+
+question_blue_5 = ‘Do you think there are still different recipes for different social classes?’ ;
+question_blue_6 = ‘Do you want to taste whale sometime?’ ; 
+question_blue_7 = ‘Do you like the taste of vinegar?’ ; 
+question_blue_8 = ‘Do you think we should have higher taxes on unhealthy food?’ ; 
+
+question_green_5 = ‘Do you think you can cook something nice when you don’t have a lot of money?’ ;
+question_green_6 = ‘Do you think everybody should be a vegetarian?’ ;
+question_green_7 = ‘Should cooking be a basic skill kids learn in school?’ ;
+question_green_8 = ‘Do you think we throw away food too easily?’ ;
+
+question_orange_5 = ‘Do you think baking of unhealthy cookies and pastries should be advertised or not?’ ;
+question_orange_6 = ‘Do you feel like cheese fondue is healthy?’ ; 
+question_orange_7 = ‘Do you think there are too many fast food chains in The Netherlands?’ ; 
+question_orange_8 = ‘Do you prefer a quick bite elsewhere, staying in or going out to eat?’ ;
